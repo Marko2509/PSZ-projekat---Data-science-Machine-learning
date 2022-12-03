@@ -1,7 +1,5 @@
 # Pronalaženje skrivenog znanja - Projektni zadatak
 
-# za junsko-julski rok 2022. godinu
-
 Projektni zadatak se sastoji iz pet celina na kojima se može ostvariti ukupno 60 poena. Zadaci se
 odnose na prikupljanje podataka, njihovu analizu, vizuelizaciju i implementaciju algoritama mašinskog
 učenja.
